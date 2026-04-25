@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Name: Updated in main
+=======
+Name: Update in feature branch
+>>>>>>> feature-update

@@ -1,4 +1,1 @@
-Name: ORATHAI
-Matric No: 251594719
-Course: Data Science (AI)
-Hobbies: Basketball, Cooking
+Name: Updated in main
